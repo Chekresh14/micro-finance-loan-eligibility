@@ -6,5 +6,5 @@ This project contains a loan eligibility calculator script written in bash. It i
 
 Clone the repository to your local machine:
 ```sh
-git clone https://github.com/YOUR-USERNAME/micro-finance-loan-eligibility.git
+git clone https://github.com/Chekresh14/micro-finance-loan-eligibility.git
 ./loan-eligibility.sh
